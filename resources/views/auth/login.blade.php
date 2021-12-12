@@ -78,6 +78,7 @@ Login
 <br>
 <div class="container-login100-form-btn">
 <button class="login100-form-btn">
+    <a href="/register">
 Register
 </button>
 </div>
