@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
 
-    <title>Dashboard</title>
+    <title>Product</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -62,7 +62,7 @@ https://templatemo.com/tm-546-sixteen-clothing
                 <a class="nav-link" href="/about">About Us</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="/contact">Contact Us</a>
+                <a class="nav-link" href="/kontak">Contact Us</a>
               </li>
             </ul>
           </div>
@@ -92,7 +92,7 @@ https://templatemo.com/tm-546-sixteen-clothing
                 <li><i class="fa fa-star"></i></li>
                 <li><i class="fa fa-star"></i></li>
                 </ul>
-                <span><a href="/beli">Beli Sekarang</span></a>
+                <span><a href="/pesanan">Beli Sekarang</span></a>
             </div>
             </div>
         </div>
@@ -110,7 +110,7 @@ https://templatemo.com/tm-546-sixteen-clothing
                 <li><i class="fa fa-star"></i></li>
                 <li><i class="fa fa-star"></i></li>
                 </ul>
-                <span><a href="/beli">Beli Sekarang</span></a>
+                <span><a href="/pesanan">Beli Sekarang</span></a>
             </div>
             </div>
         </div>
@@ -128,7 +128,7 @@ https://templatemo.com/tm-546-sixteen-clothing
                 <li><i class="fa fa-star"></i></li>
                 <li><i class="fa fa-star"></i></li>
                 </ul>
-                <span><a href="/beli">Beli Sekarang</span></a>
+                <span><a href="/pesanan">Beli Sekarang</span></a>
             </div>
             </div>
         </div>
@@ -146,7 +146,7 @@ https://templatemo.com/tm-546-sixteen-clothing
                 <li><i class="fa fa-star"></i></li>
                 <li><i class="fa fa-star"></i></li>
                 </ul>
-                <span><a href="/beli">Beli Sekarang</span></a>
+                <span><a href="pesanan">Beli Sekarang</span></a>
             </div>
             </div>
         </div>
@@ -164,7 +164,7 @@ https://templatemo.com/tm-546-sixteen-clothing
                 <li><i class="fa fa-star"></i></li>
                 <li><i class="fa fa-star"></i></li>
                 </ul>
-                <span><a href="/beli">Beli Sekarang</span></a>
+                <span><a href="/pesanan">Beli Sekarang</span></a>
             </div>
             </div>
         </div>
@@ -182,7 +182,7 @@ https://templatemo.com/tm-546-sixteen-clothing
                 <li><i class="fa fa-star"></i></li>
                 <li><i class="fa fa-star"></i></li>
                 </ul>
-                <span><a href="/beli">Beli Sekarang</span></a>
+                <span><a href="/pesanan">Beli Sekarang</span></a>
             </div>
             </div>
         </div>

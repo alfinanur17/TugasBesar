@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
 
-    <title>About</title>
+    <title>Contact Us</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -52,16 +52,16 @@ https://templatemo.com/tm-546-sixteen-clothing
             <ul class="navbar-nav ml-auto">
               <li class="nav-item">
                 <a class="nav-link" href="/dashboard">Home
-                <span class="sr-only">(current)</span>
+                  <span class="sr-only">(current)</span>
                 </a>
               </li> 
               <li class="nav-item">
                 <a class="nav-link" href="/produk">Our Products</a>
               </li>
-              <li class="nav-item active">
+              <li class="nav-item">
                 <a class="nav-link" href="/about">About Us</a>
               </li>
-              <li class="nav-item">
+              <li class="nav-item active">
                 <a class="nav-link" href="/kontak">Contact Us</a>
               </li>
             </ul>
@@ -69,48 +69,6 @@ https://templatemo.com/tm-546-sixteen-clothing
         </div>
       </nav>
     </header>
-
-    <div class="best-features">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12">
-            <div class="section-heading">
-              <h2>About Flower House</h2>
-            </div>
-          </div>
-          <div class="col-md-6">
-            <div class="left-content">
-            <h4>Pada Website ini kita dapat menemukan</h4>
-            <p><a>FLOWER HOUSE</a> Toko bunga ini didirikan pada tahun 2019 untuk mempermudah pengguna dalam menccari bunga secara online. Dengan adanya website ini banyak membantu banyak orang untuk mencari bunga saat seseorang ingin mengirim bunga ke sekitar daerah Malang. <a rel="nofollow" href="/contact">Contact us</a> for more info.</p>
-            <ul class="featured-list">
-              <li><a href="#">Pada website ini memperlihatkan produk dengan kulitas yang tinggi</a></li>
-              <li><a href="#">Melayani dengan sepenuh hati</a></li>
-              <li><a href="#">Flower House akan membuat pelanggan akan puas dengan produk kami</a></li>
-              <li><a href="#">Terjamin bunga yang dikirim akan kondisi yang baik</a></li>
-              <li><a href="#">Jika ada keluhan kami akan melayani dengan baik</a></li>
-              </ul>
-            </div>
-          </div>
-          <div class="col-md-6">
-            <div class="right-image">
-              <img src="assets/images/bungaputih.jpg" alt="">
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    
-    <footer>
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12">
-            <div class="inner-content">
-              <p>Copyright &copy; 2021 Flower House, Ltd.</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </footer>
 
 
     <!-- Bootstrap core JavaScript -->
